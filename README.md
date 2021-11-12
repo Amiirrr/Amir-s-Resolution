@@ -1,2 +1,2 @@
-# Amir-s-Resolution
+# Amirs-Resolution
 Repo for 
