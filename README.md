@@ -1,2 +1,3 @@
 # Amirs-Resolution
-Repo for 
+Repo for future planning
+
